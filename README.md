@@ -6,4 +6,4 @@ If you want to use this, Please download and edit the model that exists in the o
 <br>
 This photo is ex1_sound_mixer.<br>
 この写真はex1_sound_mixerです。<br>
-<img width="600" height="1094" alt="picture" src="https://github.com/user-attachments/assets/0d151c5e-b0eb-42cd-9791-6edce92d5893" />
+<img width="400" height="1094" alt="picture" src="https://github.com/user-attachments/assets/0d151c5e-b0eb-42cd-9791-6edce92d5893" />
