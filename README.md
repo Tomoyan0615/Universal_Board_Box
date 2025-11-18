@@ -1,5 +1,5 @@
 This is a 3D model of a box for a universal circuit board.<br>
-ユニバーサル基盤を入れる用の箱の3Dmodelです。<br>
+ユニバーサル基盤を入れる箱の3Dmodelです。<br>
 <br>
 Please download and edit the model that exists in the original directory.<br>
 originalディレクトリにあるモデルをダウンロードして編集してください。
