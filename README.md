@@ -6,5 +6,5 @@ If you want to use this, Please download and edit the model that exists in the o
 <br>
 <img width="400" height="1094" alt="picture" src="https://github.com/user-attachments/assets/0d151c5e-b0eb-42cd-9791-6edce92d5893" />
 <br>
-    picture of ex1_sound_mixer<br>
-    ex1_sound_mixerの図<br>
+picture of ex1_sound_mixer<br>
+ex1_sound_mixerの図<br>
